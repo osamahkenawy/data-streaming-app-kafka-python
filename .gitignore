@@ -1,0 +1,5 @@
+env/
+js.text
+compose.yml
+__pycache__/
+config.py
